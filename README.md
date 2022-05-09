@@ -2,6 +2,14 @@
 
 This repository constains preprocessed audion mfcc and transcripts. The dataset is separated into train, dev and test sets.
 
+The Dataset statistics
+
+|                     |            |
+| ------------------- | -----------|
+| Train        | 979      |
+| Dev        | 122     |
+| Test   | 123    |
+
 Folder structure
 ```
 \train:
